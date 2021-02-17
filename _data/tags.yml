@@ -1,0 +1,44 @@
+# speeches:
+#   name: speeches
+#   description: Some of the greatest words ever spoken.
+#   cover: assets/images/speeches.jpg
+# fiction:
+#   name: fiction
+#   description: False
+#   cover: False
+# fables:
+#   name: fables
+#   description: A series of short stories that make you think.
+#   cover: assets/images/fables.jpg
+# getting-started:
+#   name: getting-started
+#   description: False
+#   cover: False
+spring-framework:
+  name: Spring-framework
+  description: Java Lightweight Development framework
+  cover: False
+spring-boot:
+  name: Spring-Boot
+  description: Spring Bootstrap environment
+  cover: False
+spring-security:
+  name: Spring-security
+  description: Spring Security Module
+  cover: False
+vue.js:
+  name: Vue-js
+  description: Web Front End Development framework
+  cover: False
+ubuntu:
+  name: ubuntu
+  description: Linux OS for devlepment system
+  cover: False
+mySql:
+  name: mySql
+  description: Open source Relational Database
+  cover: False
+Jenkins:
+  name: Jenkins
+  description: Continuous Integeration Tool
+  cover: False
